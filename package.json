@@ -1,0 +1,23 @@
+{
+  "name": "groupdocs.editor-for-java-dropwizard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/groupdocs-editor/GroupDocs.Editor-for-Java-Dropwizard.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/groupdocs-editor/GroupDocs.Editor-for-Java-Dropwizard/issues"
+  },
+  "homepage": "https://github.com/groupdocs-editor/GroupDocs.Editor-for-Java-Dropwizard#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
