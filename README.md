@@ -80,7 +80,7 @@ Download [latest release](https://github.com/groupdocs-editor/GroupDocs.Editor-f
 curl -J -L -o release.tar.gz https://github.com/groupdocs-editor/GroupDocs.Editor-for-Java-Dropwizard/releases/download/1.14.16/release.tar.gz
 tar -xvzf release.tar.gz
 cd release
-java -jar editor-1.0.5.jar configuration.yaml
+java -jar editor-1.0.6.jar configuration.yaml
 ## Open http://localhost:8080/editor/ in your favorite browser.
 ```
 
